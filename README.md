@@ -1,2 +1,3 @@
 # Devops
-In pursuit of achieving excellency in devops
+This is a lerning repo
+In pursuit of achieving excellency in Devops
