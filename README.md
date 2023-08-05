@@ -1,2 +1,2 @@
 # Devops
-In pursuit of achieving excellency in devops
+In pursuit of achieving excellency in Devops
